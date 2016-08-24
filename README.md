@@ -9,8 +9,9 @@ Sitten pitää hakea http-serveri versionhallinnasta<br>
 <br>
 Nyt löydät http-palvelimen nykyisestä kansiosta.<br>
 Kansioita:<br>
-WWW - täällä sivuilla näkyvät tiedostot ovat, index.html on aina se sivu joka aukeaa ensimmäisenä kun palvelimelle otetaan yhteys<br>
+public - täällä sivuilla näkyvät tiedostot ovat, index.html on aina se sivu joka aukeaa ensimmäisenä kun palvelimelle otetaan yhteys<br>
 bin - täällä sijaitsevat ohjelman tarvitsemat tiedostot, ei saa siis poistaa<br>
+lib - palvelimen tarvitsemat kirjastot<br>
 README.md - tämä tiedosto<br>
 <br>
 Nyt palvelin käynnistetään komennolla<br>
