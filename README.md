@@ -28,11 +28,11 @@ Nyt palvelin käynnistetään komennolla<br>
 ```nodejs bin/http-server```
 <br>
 Palvelimen pitäisi tulostaa jotakin seuraavanlaista:<br>
-```Starting up http-server, serving ./public```<br>
-```Available on:```<br>
-```http://127.0.0.1:80```<br>
-```http://192.168.0.2:80```<br>
-```Hit CTRL-C to stop the server```<br>
+Starting up http-server, serving ./public<br>
+Available on:<br>
+http://127.0.0.1:80<br>
+http://192.168.0.2:80<br>
+Hit CTRL-C to stop the server<br>
 <br>
 <br>
 Nyt sinulla pitäisi olla raspberry pi:ssäsi pyörimässä www-palvelin.<br>
